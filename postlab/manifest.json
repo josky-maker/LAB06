@@ -1,0 +1,186 @@
+[
+  {
+    "id": 1,
+    "original_folder": "fpga_dac",
+    "original_name": "IMG_0331.MOV",
+    "file": "01_fpga_dac_IMG_0331.MOV",
+    "bytes": 4858846,
+    "sha256": "b3c01e5696d74aa13ef71b660ff5d7547cccb5d21987fb43430470f390e151a9"
+  },
+  {
+    "id": 2,
+    "original_folder": "fpga_servo",
+    "original_name": "IMG_0332.MOV",
+    "file": "02_fpga_servo_IMG_0332.MOV",
+    "bytes": 10943246,
+    "sha256": "edac24d57efa2deac4168ac6aec7c9601eb9e993241614b50d449d8e4e045ce3"
+  },
+  {
+    "id": 3,
+    "original_folder": "fpga_sram",
+    "original_name": "IMG_0336.MOV",
+    "file": "03_fpga_sram_IMG_0336.MOV",
+    "bytes": 13027587,
+    "sha256": "8282a84cef2362e7ffbd35d1317a25536d68c4a6625e898d0fba978b604cc73f"
+  },
+  {
+    "id": 4,
+    "original_folder": "fpga_sram",
+    "original_name": "IMG_dip0001 0101.HEIC",
+    "file": "04_fpga_sram_IMG_dip0001 0101.HEIC",
+    "bytes": 1971119,
+    "sha256": "24490ff218db8b366ca0a9f31413042c86d250e4f95b215fbccaa2cd854f3a26"
+  },
+  {
+    "id": 5,
+    "original_folder": "fpga_sram",
+    "original_name": "IMG_dip0001 1000 key2.HEIC",
+    "file": "05_fpga_sram_IMG_dip0001 1000 key2.HEIC",
+    "bytes": 2179635,
+    "sha256": "948eff240657cc4361d58af10a7739b0bce3ceea0bc5d680b5eb3a92963c9ede"
+  },
+  {
+    "id": 6,
+    "original_folder": "fpga_sram",
+    "original_name": "IMG_dip0001 1000.HEIC",
+    "file": "06_fpga_sram_IMG_dip0001 1000.HEIC",
+    "bytes": 2111118,
+    "sha256": "cc5395246e30636db2e62a1883ea9fa3eb5b18ec386a908c0c0101f37b6cacf4"
+  },
+  {
+    "id": 7,
+    "original_folder": "stm_task5",
+    "original_name": "KakaoTalk_20261026_183305002.jpg",
+    "file": "07_stm_task5_KakaoTalk_20261026_183305002.jpg",
+    "bytes": 3545993,
+    "sha256": "658565d59e742f9e7756d2616e9100310e7b4f83ae8e7a82c688a669f85a3bb6"
+  },
+  {
+    "id": 8,
+    "original_folder": "stm_task5",
+    "original_name": "KakaoTalk_20261026_183305002_01.jpg",
+    "file": "08_stm_task5_KakaoTalk_20261026_183305002_01.jpg",
+    "bytes": 3654855,
+    "sha256": "2ab554b5268adcb9f9808f829a4fd626b7cf21e829beb0e91358217143c5cd12"
+  },
+  {
+    "id": 9,
+    "original_folder": "stm_task5",
+    "original_name": "KakaoTalk_20261026_183305002_02.jpg",
+    "file": "09_stm_task5_KakaoTalk_20261026_183305002_02.jpg",
+    "bytes": 2450086,
+    "sha256": "e133cb610b8f66d686e8136ac6ff045be09b52c82ae780a0e3dd2274bc33cfa9"
+  },
+  {
+    "id": 10,
+    "original_folder": "stm_task5",
+    "original_name": "KakaoTalk_20261026_183305002_03.jpg",
+    "file": "10_stm_task5_KakaoTalk_20261026_183305002_03.jpg",
+    "bytes": 2763277,
+    "sha256": "f47c641fd8248fc1e8f800a9fe9b402894fcf6103baaf845a4a1c3a8fbb44f00"
+  },
+  {
+    "id": 11,
+    "original_folder": "stm_task5",
+    "original_name": "KakaoTalk_20261026_183305002_04.jpg",
+    "file": "11_stm_task5_KakaoTalk_20261026_183305002_04.jpg",
+    "bytes": 3061772,
+    "sha256": "e496a938ea49b07c1d494ba718044a073496d134f87623e84ca7b3166adc702f"
+  },
+  {
+    "id": 12,
+    "original_folder": "stm_task6",
+    "original_name": "KakaoTalk_20261026_183209937.jpg",
+    "file": "12_stm_task6_KakaoTalk_20261026_183209937.jpg",
+    "bytes": 3621021,
+    "sha256": "f01b3ecfe88e4366102753af46489b5e1e0cf65cc1e6e8ed5d40e7f358f7cb82"
+  },
+  {
+    "id": 13,
+    "original_folder": "stm_task6",
+    "original_name": "KakaoTalk_20261026_183209937_01.jpg",
+    "file": "13_stm_task6_KakaoTalk_20261026_183209937_01.jpg",
+    "bytes": 3393015,
+    "sha256": "1ce1fba92702ddd5fecaa295ce7fc3e021524c84c13280704a031e7adbcbd611"
+  },
+  {
+    "id": 14,
+    "original_folder": "stm_task6",
+    "original_name": "KakaoTalk_20261026_183215043.mp4",
+    "file": "14_stm_task6_KakaoTalk_20261026_183215043.mp4",
+    "bytes": 2603279,
+    "sha256": "3b5d7a5aabc6e9bf050ddf70cf6bb74bc1d961c253f866283563374c5b58ae57"
+  },
+  {
+    "id": 15,
+    "original_folder": "stm_task7",
+    "original_name": "IMG_0337.HEIC",
+    "file": "15_stm_task7_IMG_0337.HEIC",
+    "bytes": 3495197,
+    "sha256": "1fa8386c46fdb23d70ba9c75c9e38c722a47633039487b94273e38b5de7236af"
+  },
+  {
+    "id": 16,
+    "original_folder": "stm_task7",
+    "original_name": "IMG_0338.HEIC",
+    "file": "16_stm_task7_IMG_0338.HEIC",
+    "bytes": 2320927,
+    "sha256": "1ff0114657cb3012e89b38f7a396c13f5c822cc8d40ed0c389e7a5221e354752"
+  },
+  {
+    "id": 17,
+    "original_folder": "stm_task7",
+    "original_name": "IMG_0339.HEIC",
+    "file": "17_stm_task7_IMG_0339.HEIC",
+    "bytes": 4360008,
+    "sha256": "ddf05217abc78bc5773a07ae797dd3001515c96c48f4c0a9ccf1c99fb3ad9f96"
+  },
+  {
+    "id": 18,
+    "original_folder": "stm_task7",
+    "original_name": "IMG_0340.HEIC",
+    "file": "18_stm_task7_IMG_0340.HEIC",
+    "bytes": 3479583,
+    "sha256": "435a3ac79e31bee72515788c0a7bfdc407f356c5e70a91da7e9a992450a94f09"
+  },
+  {
+    "id": 19,
+    "original_folder": "stm_task7",
+    "original_name": "IMG_0341.HEIC",
+    "file": "19_stm_task7_IMG_0341.HEIC",
+    "bytes": 2284576,
+    "sha256": "ab404f02156100c56241c50ebb7e5963584223cc7b59692c1d1dbee6c1792ef4"
+  },
+  {
+    "id": 20,
+    "original_folder": "stm_task7",
+    "original_name": "IMG_0342.HEIC",
+    "file": "20_stm_task7_IMG_0342.HEIC",
+    "bytes": 2328670,
+    "sha256": "f6c979e0ba9326b9968df3f04693f1f00ec1a2d2fdf47cf5d1b8e2557c2b691d"
+  },
+  {
+    "id": 21,
+    "original_folder": "stm_task7",
+    "original_name": "IMG_0343.HEIC",
+    "file": "21_stm_task7_IMG_0343.HEIC",
+    "bytes": 3631466,
+    "sha256": "3eecf8827a79ccb2966d0177fce55c211ee7b670b9ea1cef31a7eed5daa6189e"
+  },
+  {
+    "id": 22,
+    "original_folder": "stm_task7",
+    "original_name": "IMG_0344.HEIC",
+    "file": "22_stm_task7_IMG_0344.HEIC",
+    "bytes": 3519214,
+    "sha256": "e5c3aa5b1846e13cacd23ea590dc79c42131d5de3f759df82d79bc5dd6b62f0e"
+  },
+  {
+    "id": 23,
+    "original_folder": "stm_task7",
+    "original_name": "IMG_0345.MOV",
+    "file": "23_stm_task7_IMG_0345.MOV",
+    "bytes": 10664746,
+    "sha256": "439a46581b9aef731145a65c1b206b64e97d6551c09f861bbbecb4fc40fff586"
+  }
+]
